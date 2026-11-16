@@ -1,0 +1,16 @@
+# Kompilyatsiya natijalari
+out/
+*.class
+sources.txt
+
+# IDE fayllari
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Operatsion tizim fayllari
+.DS_Store
+Thumbs.db
